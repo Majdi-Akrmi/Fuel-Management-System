@@ -1,0 +1,5 @@
+tkcalendar
+Pillow
+python-docx
+docxtpl
+matplotlib
